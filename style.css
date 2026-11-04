@@ -1,0 +1,49 @@
+#head{
+    text-align:center;
+}
+.button{
+    height:90px;
+    width:90px;
+    border-radius: 10%;
+    border:none;
+    background-color: blueviolet;
+}
+#line{
+    margin-left: 480px;;
+}
+body{
+    background-color: yellow;
+}
+
+
+.class{
+    margin-left:400px;
+}
+#Re{
+    margin-left: 560px;
+    margin-top: 20px;
+    height:40px;
+    width:120px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    border:none;
+    background-color: pink;
+    border-radius: 10%;
+}
+button:hover{
+    opacity: 0.5;
+    background-color:rgb(141, 26, 45);
+    cursor:pointer;
+}
+#bu{
+    margin-left: 530px;
+    height:30px;
+   
+}
+.vi{
+    background-color: aqua;
+    border:none;
+    height:50px;
+    width:90px;
+     border-radius: 10%;
+}
