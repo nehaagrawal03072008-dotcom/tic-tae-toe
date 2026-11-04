@@ -1,6 +1,6 @@
 # ❌⭕ Tic Tac Toe Game
 
-Hi! I'm **Neha Agarwal**, and this is my Tic Tac Toe Game project, created using HTML, CSS, and JavaScript.
+Hi! I'm **Neha Agrawal**, and this is my Tic Tac Toe Game project, created using HTML, CSS, and JavaScript.
 
 I made this project to practise my web development skills and understand how JavaScript handles game logic and user interactions.
 
@@ -57,7 +57,7 @@ While making this project, I learned:
 
 ## 🌱 About Me
 
-I'm Neha Agarwal, a beginner in web development. I created this project as part of my learning journey and to improve my JavaScript skills.
+I'm Neha Agrawal, a beginner in web development. I created this project as part of my learning journey and to improve my JavaScript skills.
 
 I hope to create more interesting projects and keep learning!
 
